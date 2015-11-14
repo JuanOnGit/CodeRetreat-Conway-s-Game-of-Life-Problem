@@ -1,5 +1,5 @@
 # CodeRetreat-Conway-s-Game-of-Life-Problem
-This is a clean start to the Conway's Game of Life. As part of the CodeRetreat in Omaha, 2015, the problem was given to solve the problem by Conway's Game of Life, essentially, create a story based on the below rules.
+This is a clean start to the Conway's Game of Life. As part of the CodeRetreat in Omaha 2015, the problem was given to solve  Conway's Game of Life by using TDD. Essentially, create a story based on the below rules.
 
 Information for attempting to solve the problem:
 Problem: The game of Life, Conway
