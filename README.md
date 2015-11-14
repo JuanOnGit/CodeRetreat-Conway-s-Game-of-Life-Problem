@@ -25,7 +25,7 @@ Conway chose his rules carefully, after considerable experimentation, to meet th
 
 From <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life> 
 
-Cell < 2 Neighbours dies
-Cell > 2 Neigbours lives or Cell > 3 neighbours lives
-Cell > 3 Neighbours dies
-Dead Cell == 3 live neighbors
+Cell < 2 Neighbours dies,
+Cell > 2 Neigbours lives or Cell > 3 neighbours lives,
+Cell > 3 Neighbours dies,
+Dead Cell == 3 live neighbors,
